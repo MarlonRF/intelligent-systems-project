@@ -1,0 +1,15 @@
+version: "3"
+
+services: 
+  jupyter_lab:
+    container_name: jupyter
+    build: .
+    ports: 
+      - "8888:8888"
+    environment: 
+      - JUPYTER_ENABLE_LAB=yes
+      - DATASET_PATH=./dados_elo7.csv
+      - METRICS_PATH=./metricas.txt
+      - MODEL_PATH=./modelo_classificador_texto_MB.sav
+    volumes: 
+      - .:/home/jovyan/work
