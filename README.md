@@ -6,4 +6,4 @@ Marlon Resende Faria (marlonresendefaria@gmail.com)
 
 João Paulo Fumes Beneton (beneton@usp.br)
 
-Os arquivos do projeto estão no diretóio "training".
+Os arquivos do projeto estão no diretório "training".
