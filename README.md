@@ -1,10 +1,7 @@
-# Development of Intelligent Computer Systems
+# Curso de Verão 2022 - Desenvolvimento de Sistemas Computacionais Inteligentes - EaD
 
-Project for the course "Development of Intelligent Computer Systems" at IME-USP.
+## Projeto Parte 1 - Pipeline de Treinamento
 
-**Clone this repo** and submit your solution as instructed in class.
+Marlon Resende Faria (marlonresendefaria@gmail.com)
 
-In the first part of this project, we will create the **training pipeline** for
-a **categorization model**. More instructions are available [here][1].
-
-[1]: ./training/README.md
+João Paulo Fumes Beneton (beneton@usp.br)
