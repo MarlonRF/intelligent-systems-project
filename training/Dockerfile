@@ -11,6 +11,7 @@ ENV JUPYTER_HOST="0.0.0.0" \
     JUPYTER_GROUP="jovyan" \
     JUPYTER_USER="jovyan" \
     JUPYTER_HOME_DIR="/home/jovyan" \
+    JUPYTER_ENABLE_LAB="yes"\
     JUPYTER_NB_DIR="/usr/src/notebooks"
 
 # Work directory inside container
