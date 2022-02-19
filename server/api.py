@@ -4,8 +4,16 @@ import os
 import pickle
 from flask import abort, jsonify
 
-MODEL_PATH = os.environ['MODEL_PATH']
 
+categorias = {0: 'Decoração',
+ 1: 'Papel e Cia',
+ 2: 'Outros',
+ 3: 'Bebê',
+ 4: 'Lembrancinhas',
+ 5: 'Bijuterias e Jóias'}
+
+# carrega o caminho do modelo da variável de ambiente "MODEL"
+MODEL_PATH = os.environ['MODEL_PATH']
 arquivo = open(MODEL_PATH, 'rb')
 
 # modelo classificadorm de texto
@@ -33,11 +41,11 @@ def bye():
 
     texto = request.json['titulo']
     resultado = mlt.predict([texto])
-    return {'categorias':f"{resultado}"}
+    resultado = categorias[resultado[0]]
+    return {'categoria':f"{resultado}"}
    
 
 # main driver function
 if __name__ == '__main__':
-  
   
     api.run(debug=True,host='0.0.0.0')
