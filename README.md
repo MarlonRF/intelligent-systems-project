@@ -8,7 +8,8 @@ Treinamento de modelo para categorização de textos
 ### Projeto Parte 2 - API
 API em Flask para utilização do modelo
 
-__Autores:__
+---
+###Autores
 
 João Paulo Fumes Beneton (beneton@usp.br)
 
