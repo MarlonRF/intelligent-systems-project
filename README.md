@@ -1,6 +1,6 @@
 # Development of Intelligent Computer Systems
 
-# Curso de Verão 2022 - Desenvolvimento de Sistemas Computacionais Inteligentes - EaD
+### Curso de Verão 2022 - Desenvolvimento de Sistemas Computacionais Inteligentes - EaD
 
 ### Projeto Parte 1 - Pipeline de Treinamento 
 Treinamento de modelo para categorização de textos
