@@ -14,7 +14,3 @@ API em Flask para utilização do modelo
 João Paulo Fumes Beneton (beneton@usp.br)
 
 Marlon Resende Faria (marlonresendefaria@gmail.com)
-
-
-Os arquivos do projeto estão no diretório "training".
-
