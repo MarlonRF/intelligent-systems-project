@@ -2,11 +2,11 @@
 
 # Curso de Verão 2022 - Desenvolvimento de Sistemas Computacionais Inteligentes - EaD
 
-## Projeto Parte 1 - Pipeline de Treinamento 
-### Treinamento de modelo para categorização de textos
+### Projeto Parte 1 - Pipeline de Treinamento 
+Treinamento de modelo para categorização de textos
 
-## Projeto Parte 2 - API
-### API em Flask para utilização do modelo
+### Projeto Parte 2 - API
+API em Flask para utilização do modelo
 
 __Autores:__
 
