@@ -1,15 +1,19 @@
 # Development of Intelligent Computer Systems
 
-Project for the course "Development of Intelligent Computer Systems" at IME-USP.
+# Curso de Verão 2022 - Desenvolvimento de Sistemas Computacionais Inteligentes - EaD
 
-**Clone this repo** and submit your solution as instructed in class.
+## Projeto Parte 1 - Pipeline de Treinamento 
+### Treinamento de modelo para categorização de textos
 
-In the first part of this project, we will create the **training pipeline** for
-a **categorization model**. More instructions are available [here][1].
+## Projeto Parte 2 - API
+### API em Flask para utilização do modelo
 
-In the second part of this project, we will create an **API** for the
-**categorization model** developed previously. More instructions are
-available [here][2].
+__Autores:__
 
-[1]: ./training/README.md
-[2]: ./server/README.md
+João Paulo Fumes Beneton (beneton@usp.br)
+
+Marlon Resende Faria (marlonresendefaria@gmail.com)
+
+
+Os arquivos do projeto estão no diretório "training".
+
